@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.d7a2a7b4.css",
-    "main.js": "/my-react-app/static/js/main.bb35b8db.js",
-    "index.html": "/my-react-app/index.html",
-    "main.d7a2a7b4.css.map": "/my-react-app/static/css/main.d7a2a7b4.css.map",
-    "main.bb35b8db.js.map": "/my-react-app/static/js/main.bb35b8db.js.map"
+    "main.css": "/costcalc/static/css/main.d7a2a7b4.css",
+    "main.js": "/costcalc/static/js/main.bb35b8db.js",
+    "index.html": "/costcalc/index.html",
+    "main.d7a2a7b4.css.map": "/costcalc/static/css/main.d7a2a7b4.css.map",
+    "main.bb35b8db.js.map": "/costcalc/static/js/main.bb35b8db.js.map"
   },
   "entrypoints": [
     "static/css/main.d7a2a7b4.css",
